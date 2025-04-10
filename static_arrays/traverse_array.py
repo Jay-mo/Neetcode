@@ -1,5 +1,7 @@
 """
-To read all the elements of an array
+To read all the elements of an array.
+
+Time Complexity: O(n)
 """
 
 
@@ -15,7 +17,6 @@ def print_newline(func):
 
 @print_newline
 def traverse(arr):
-
     for i in arr:
         print(i,end='')
 traverse(myArray)

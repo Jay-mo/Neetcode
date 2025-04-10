@@ -1,5 +1,7 @@
 """
-Reading an element from an array
+Reading an element from an array given the index of the element.
+
+Time Complexity: O(1)
 """
 
 
